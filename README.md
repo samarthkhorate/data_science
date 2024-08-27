@@ -1,4 +1,4 @@
-# Data Science Projects Repository
+# Data Science Repository
 
 Welcome to the **Data Science Projects** repository! This repository contains basic Python, NumPy, and Pandas Jupyter notebooks, along with CSV files to help you get started with essential data science concepts.
 
